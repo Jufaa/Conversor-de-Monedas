@@ -1,6 +1,5 @@
 # Conversor-de-Monedas
 Faltan validaciones, esta modularizado
-Desde la pantalla principal se obtiene acceso a un menú en la esquina superior izquierda, donde se encontrarán dos opciones a saber:
 
 [![Captura-de-pantalla-2023-04-03-110328.png](https://i.postimg.cc/fWGdgNNY/Captura-de-pantalla-2023-04-03-110328.png)](https://postimg.cc/dD9DLgD0)
 [![Captura-de-pantalla-2023-04-03-110351.png](https://i.postimg.cc/BQ2KrVSk/Captura-de-pantalla-2023-04-03-110351.png)](https://postimg.cc/zVXvWpRF)
